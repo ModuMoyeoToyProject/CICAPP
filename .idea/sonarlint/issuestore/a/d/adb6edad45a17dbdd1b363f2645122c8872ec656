@@ -1,0 +1,22 @@
+
+h
+java:S1104"RMake itemId a static final constant or non-public and provide accessors if needed.(ƒÌ†®
+o
+java:S1104	"TMake itemType a static final constant or non-public and provide accessors if needed.(˜šç®şÿÿÿÿ
+g
+java:S1104
+"RMake itemNo a static final constant or non-public and provide accessors if needed.(´¹
+j
+java:S1104"TMake itemName a static final constant or non-public and provide accessors if needed.(Æ´­­
+o
+java:S1104"TMake describe a static final constant or non-public and provide accessors if needed.(…¼¡Ÿüÿÿÿÿ
+l
+java:S1104"VMake itemMaxCnt a static final constant or non-public and provide accessors if needed.(ª¨×Ó
+i
+java:S1104"SMake itemCnt a static final constant or non-public and provide accessors if needed.(«¨– 
+j
+java:S1104"TMake rentalYn a static final constant or non-public and provide accessors if needed.(ıÌÖı
+n
+java:S1104"XMake registUserId a static final constant or non-public and provide accessors if needed.(¼Ç¥÷
+g
+java:S1104"QMake regDt a static final constant or non-public and provide accessors if needed.(Àßéá
